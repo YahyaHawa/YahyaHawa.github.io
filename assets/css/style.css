@@ -20,6 +20,17 @@ font-size:16px;
 line-height:35px;
 }
 
+.links {
+	color: white;
+	font-size: 16px;
+}
+
+.links:hover {
+	transition: font-size 2s;
+	font-size: 20px;
+	text-decoration: none; 
+}
+
  .carousel-caption {
     top: 50px;
 }
